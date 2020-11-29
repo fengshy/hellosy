@@ -13,5 +13,14 @@ sy <- function(){
 fsy <- function(){
   print("fsy is a pretty girl")
 }
+
+fsy <- function(){
+  print("fsy is a bright girl")
+}
+
+fsy <- function(){
+  print("fsy is a girl")
+}
+
 library(devtools)
 use_git()
