@@ -9,4 +9,9 @@ hello <- function(){
 sy <- function(){
   print("fsy is a beautiful girl")
 }
+
+fsy <- function(){
+  print("fsy is a pretty girl")
+}
+library(devtools)
 use_git()
