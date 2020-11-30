@@ -22,5 +22,9 @@ fsy <- function(){
   print("fsy is a girl")
 }
 
+fsy <- function(){
+  print("roast fish")
+}
+
 library(devtools)
 use_git()
